@@ -1,0 +1,28 @@
+{
+  "name": "LocalVibe - Experience Jaipur Like a Local",
+  "short_name": "LocalVibe",
+  "description": "Skip tourist traps. Get AI-powered itineraries for hidden cafes, secret rooftop views, and authentic local food in Jaipur.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FDF8F3",
+  "theme_color": "#C75B39",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-512.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["travel", "food", "lifestyle"],
+  "lang": "en-IN",
+  "dir": "ltr"
+}
